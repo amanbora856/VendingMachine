@@ -1,7 +1,6 @@
 {
   "name": "vending_machine",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,17 @@
   "dependencies": {
     "ganache": "^7.4.0",
     "truffle": "^5.5.24"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanbora856/VendingMachine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amanbora856/VendingMachine/issues"
+  },
+  "homepage": "https://github.com/amanbora856/VendingMachine#readme",
+  "description": ""
 }
